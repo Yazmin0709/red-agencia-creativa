@@ -1,7 +1,7 @@
 PROYECTO: Agencia Creativa Digital
 
 OBJETIVOS DE LA RED:
-- Diseñar una red eficiente y segura que soporte la operaci[on de ua agencia creativa digital.
+- Diseñar una red eficiente y segura que soporte la operación de una agencia creativa digital.
 - Proteger la confidencialidad de los archivos de clientes y proyectos mediante controles de seguridad adecuados.
 - Implementar buenas prácticas de seguridad basadas en la norma ISO/ITEC 27001.
 - Establecer una segmentación lógica entre departamentos para facilitar el monitoreo y la administración.
