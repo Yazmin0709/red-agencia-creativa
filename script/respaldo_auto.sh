@@ -6,7 +6,7 @@ ORIGEN="/home/devasc/Documentos/script"
 DESTINO="/home/devasc/respaldo_auto"
 ARCHIVO="proyecto_backup_$FECHA.tar.gz"
 LOG="/home/devasc/respaldo_auto/respaldo.log"
-EMAIL="m47824495@gmail.com"
+EMAIL="correo@gmail.com"
 
 # ==== CREAR CARPETA DE RESPALDOS 
 mkdir -p "$DESTINO"
