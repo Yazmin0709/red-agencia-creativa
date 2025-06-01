@@ -7,8 +7,8 @@ logfile ~/.msmtp.log
 account gmail
 host smtp.gmail.com
 port 587
-from m47824495@gmail.com
-user m47824495@gmail.com
+from correo@gmail.com
+user correo@gmail.com
 password tu_contraseña_de_aplicación
 
 account default : gmail
