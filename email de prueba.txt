@@ -1,0 +1,3 @@
+echo -e "Subject: Prueba de respaldo\n\nEste es un correo de prueba enviado con msmtp." > mensaje.txt
+
+msmtp correo@gmail.com < mensaje.txt

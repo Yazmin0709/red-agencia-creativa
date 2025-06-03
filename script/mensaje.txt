@@ -1,3 +1,0 @@
-Subject: Prueba de respaldo
-
-Este es un correo de prueba enviado con msmtp.
